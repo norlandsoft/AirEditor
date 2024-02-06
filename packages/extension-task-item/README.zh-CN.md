@@ -1,4 +1,4 @@
-# @norlandsoft/tide-extension-task-item
+# @gitee/tide-extension-task-item
 
 ## 介绍
 

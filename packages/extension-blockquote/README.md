@@ -1,4 +1,4 @@
-# @norlandsoft/tide-extension-blockquote
+# @gitee/tide-extension-blockquote
 
 ## Introduction
 

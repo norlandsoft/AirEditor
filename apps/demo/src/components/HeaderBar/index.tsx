@@ -3,7 +3,7 @@ import lz from 'lz-string';
 import copy from 'copy-to-clipboard';
 import applyDevTools from 'prosemirror-dev-tools';
 import throttle from 'lodash/throttle';
-import { TideEditor, EditorEvents } from '@norlandsoft/tide';
+import { TideEditor, EditorEvents } from '@gitee/tide';
 import { Theme, useTheme } from '../../contexts/ThemeContext';
 import icon from '../../../favicon.svg';
 
@@ -102,8 +102,8 @@ const HeaderBar = ({ editor }: { editor: TideEditor | null }) => {
     <div className={'demo-header-bar'}>
       <div className={'demo-header-bar-left'}>
         <a href="https://gitee.com/oschina/tide" className="link-repository">
-          <img src={icon} alt="@norlandsoft/tide" />
-          @norlandsoft/tide
+          <img src={icon} alt="@gitee/tide" />
+          @gitee/tide
         </a>
         <a
           href="https://gitee.com/oschina/tide/stargazers"

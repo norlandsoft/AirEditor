@@ -1,4 +1,4 @@
-# @norlandsoft/tide-common
+# @gitee/tide-common
 
 ## Introduction
 

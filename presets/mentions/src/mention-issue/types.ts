@@ -1,4 +1,4 @@
-import { MentionItemDataType } from '@norlandsoft/tide-extension-mention';
+import { MentionItemDataType } from '@gitee/tide-extension-mention';
 
 export interface IssueType {
   id: number;

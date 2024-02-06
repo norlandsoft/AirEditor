@@ -1,4 +1,4 @@
-# @norlandsoft/tide
+# @gitee/tide
 
 ## Introduction
 
@@ -9,21 +9,21 @@ This package provides an easy-to-use editor component for React.
 > If you do not want to enable syntax highlighting for code blocks, you can choose not to install `highlight.js`.
 
 ```bash
-npm install --save @norlandsoft/tide @norlandsoft/tide-starter-kit highlight.js
+npm install --save @gitee/tide @gitee/tide-starter-kit highlight.js
 # or
-yarn add @norlandsoft/tide @norlandsoft/tide-starter-kit highlight.js
+yarn add @gitee/tide @gitee/tide-starter-kit highlight.js
 # or
-pnpm add @norlandsoft/tide @norlandsoft/tide-starter-kit highlight.js
+pnpm add @gitee/tide @gitee/tide-starter-kit highlight.js
 ```
 
 ## Usage
 
 ```tsx
 import React, { useState } from 'react';
-import { EditorRender, useEditor } from '@norlandsoft/tide';
-import { StarterKit } from '@norlandsoft/tide-starter-kit';
+import { EditorRender, useEditor } from '@gitee/tide';
+import { StarterKit } from '@gitee/tide-starter-kit';
 
-import '@norlandsoft/tide/dist/style.css';
+import '@gitee/tide/dist/style.css';
 import 'highlight.js/styles/default.css';
 
 function App() {
@@ -40,7 +40,7 @@ function App() {
 }
 ```
 
-To customize the styles, you can refer to the CSS variables in `@norlandsoft/tide-theme/dist/variable.less`.
+To customize the styles, you can refer to the CSS variables in `@gitee/tide-theme/dist/variable.less`.
 
 ## Configuration
 

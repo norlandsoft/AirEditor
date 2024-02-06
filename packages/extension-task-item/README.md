@@ -1,4 +1,4 @@
-# @norlandsoft# @norlandsoft/tide-extension-task-item
+# @gitee# @gitee/tide-extension-task-item
 
 ## Introduction
 

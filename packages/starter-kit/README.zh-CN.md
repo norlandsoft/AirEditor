@@ -1,4 +1,4 @@
-# @norlandsoft/tide-starter-kit
+# @gitee/tide-starter-kit
 
 ## 介绍
 

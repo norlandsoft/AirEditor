@@ -1,4 +1,4 @@
-# @norlandsoft/tide-extension-lists-indentation
+# @gitee/tide-extension-lists-indentation
 
 ## 介绍
 

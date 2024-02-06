@@ -1,4 +1,4 @@
-# @norlandsoft/tide-extension-italic
+# @gitee/tide-extension-italic
 
 ## Introduction
 

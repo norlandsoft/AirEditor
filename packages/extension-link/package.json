@@ -1,6 +1,6 @@
 {
-  "name": "@norlandsoft/tide-extension-link",
-  "version": "0.0.1",
+  "name": "@gitee/tide-extension-link",
+  "version": "0.2.0-beta.1",
   "main": "dist/index.js",
   "module": "dist/index.esm.js",
   "files": [
@@ -15,9 +15,9 @@
     "clear": "rm -rf dist"
   },
   "dependencies": {
-    "@norlandsoft/tide-common": "workspace:*",
-    "@norlandsoft/tide-react": "workspace:*",
-    "@norlandsoft/tide-theme": "workspace:*",
+    "@gitee/tide-common": "workspace:*",
+    "@gitee/tide-react": "workspace:*",
+    "@gitee/tide-theme": "workspace:*",
     "@tiptap/extension-link": "^2.0.3",
     "@babel/runtime-corejs3": "^7.21.0"
   },

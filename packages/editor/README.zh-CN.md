@@ -1,4 +1,4 @@
-# @norlandsoft/tide
+# @gitee/tide
 
 ## 介绍
 
@@ -9,21 +9,21 @@
 > 如果你不希望启用代码块的语法高亮功能，可以不安装 `highlight.js`。
 
 ```bash
-npm install --save @norlandsoft/tide @norlandsoft/tide-starter-kit highlight.js
+npm install --save @gitee/tide @gitee/tide-starter-kit highlight.js
 # or
-yarn add @norlandsoft/tide @norlandsoft/tide-starter-kit highlight.js
+yarn add @gitee/tide @gitee/tide-starter-kit highlight.js
 # or
-pnpm add @norlandsoft/tide @norlandsoft/tide-starter-kit highlight.js
+pnpm add @gitee/tide @gitee/tide-starter-kit highlight.js
 ```
 
 ## 使用
 
 ```tsx
 import React, { useState } from 'react';
-import { EditorRender, useEditor } from '@norlandsoft/tide';
-import { StarterKit } from '@norlandsoft/tide-starter-kit';
+import { EditorRender, useEditor } from '@gitee/tide';
+import { StarterKit } from '@gitee/tide-starter-kit';
 
-import '@norlandsoft/tide/dist/style.css';
+import '@gitee/tide/dist/style.css';
 import 'highlight.js/styles/default.css';
 
 function App() {
@@ -40,7 +40,7 @@ function App() {
 }
 ```
 
-如需自定义样式，可参考 `@norlandsoft/tide-theme/dist/variable.less` 中的 CSS Variables 进行覆盖。
+如需自定义样式，可参考 `@gitee/tide-theme/dist/variable.less` 中的 CSS Variables 进行覆盖。
 
 ## 配置
 

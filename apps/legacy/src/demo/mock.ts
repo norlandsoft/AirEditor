@@ -5,7 +5,7 @@ import {
   MentionPullRequestAttributes,
   MentionMemberAttributes,
   MentionIssueAttributes,
-} from '@norlandsoft/tide-presets-mentions';
+} from '@gitee/tide-presets-mentions';
 
 export const sleep = (ms: number) => new Promise((r) => setTimeout(r, ms));
 

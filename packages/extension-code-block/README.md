@@ -1,4 +1,4 @@
-# @norlandsoft/tide-extension-code-block
+# @gitee/tide-extension-code-block
 
 ## Introduction
 
@@ -21,21 +21,21 @@ This extension modifies the following features based on `@tiptap/extension-code-
 This extension uses `highlight.js` as the code highlighting library, so you need to install `highlight.js` and import its style file.
 
 ```bash
-npm install --save @norlandsoft/tide-extension-code-block highlight.js
+npm install --save @gitee/tide-extension-code-block highlight.js
 # or
-yarn add @norlandsoft/tide-extension-code-block highlight.js
+yarn add @gitee/tide-extension-code-block highlight.js
 # or
-pnpm add @norlandsoft/tide-extension-code-block highlight.js
+pnpm add @gitee/tide-extension-code-block highlight.js
 ```
 
 Enable this extension in the editor:
 
 ```tsx
 import React, { useState } from 'react';
-import { EditorRender, JSONContent } from '@norlandsoft/tide';
-import { CodeBlock } from '@norlandsoft/tide-extension-code-block';
+import { EditorRender, JSONContent } from '@gitee/tide';
+import { CodeBlock } from '@gitee/tide-extension-code-block';
 
-import '@norlandsoft/tide/dist/style.css';
+import '@gitee/tide/dist/style.css';
 import 'highlight.js/styles/default.css';
 
 function App() {

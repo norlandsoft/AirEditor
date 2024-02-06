@@ -1,7 +1,7 @@
 import React from 'react';
 import { IconImageBold } from '@gitee/icons-react';
-import { isActive } from '@norlandsoft/tide-common';
-import { selectImageUpload } from '@norlandsoft/tide-extension-uploader';
+import { isActive } from '@gitee/tide-common';
+import { selectImageUpload } from '@gitee/tide-extension-uploader';
 import { MenuBarItem } from '../MenuBarItem';
 import { useStatusMap } from '../../MenuBarContext';
 import { Tooltip } from '../Tooltip';

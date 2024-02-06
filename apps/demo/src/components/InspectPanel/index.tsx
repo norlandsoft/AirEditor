@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import MonacoEditor from '@monaco-editor/react';
-import { TideEditor, EditorEvents } from '@norlandsoft/tide';
+import { TideEditor, EditorEvents } from '@gitee/tide';
 import throttle from 'lodash/throttle';
 import { Theme, useTheme } from '../../contexts/ThemeContext';
 import './userWorker';

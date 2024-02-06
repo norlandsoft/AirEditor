@@ -1,4 +1,4 @@
-# @norlandsoft/tide-extension-table
+# @gitee/tide-extension-table
 
 ## 介绍
 

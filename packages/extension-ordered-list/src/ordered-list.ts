@@ -2,10 +2,7 @@ import {
   OrderedList as TOrderedList,
   OrderedListOptions as TOrderedListOptions,
 } from '@tiptap/extension-ordered-list';
-import {
-  wrapInListInputRule,
-  wrappingInputRule,
-} from '@norlandsoft/tide-common';
+import { wrapInListInputRule, wrappingInputRule } from '@gitee/tide-common';
 import { getNodeType } from '@tiptap/core';
 
 export type OrderedListOptions = TOrderedListOptions;

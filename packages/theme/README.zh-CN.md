@@ -1,4 +1,4 @@
-# @norlandsoft/tide-theme
+# @gitee/tide-theme
 
 ## 介绍
 

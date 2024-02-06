@@ -3,7 +3,7 @@ import {
   Blockquote as TBlockquote,
   BlockquoteOptions as TBlockquoteOptions,
 } from '@tiptap/extension-blockquote';
-import { wrappingInputRule } from '@norlandsoft/tide-common';
+import { wrappingInputRule } from '@gitee/tide-common';
 
 export type BlockquoteOptions = TBlockquoteOptions;
 

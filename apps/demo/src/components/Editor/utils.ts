@@ -1,5 +1,5 @@
 import AwesomeDebouncePromise from 'awesome-debounce-promise';
-import { UploaderFunc } from '@norlandsoft/tide-extension-uploader';
+import { UploaderFunc } from '@gitee/tide-extension-uploader';
 
 export const mockImgUploader: UploaderFunc = async (file, progressCallBack) => {
   let src = '';

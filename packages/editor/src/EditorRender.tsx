@@ -1,11 +1,11 @@
 import React from 'react';
-import { LinkBubbleMenu } from '@norlandsoft/tide-extension-link';
-import { TableCellBubbleMenu } from '@norlandsoft/tide-extension-table';
-import { ImageBubbleMenu } from '@norlandsoft/tide-extension-image';
+import { LinkBubbleMenu } from '@gitee/tide-extension-link';
+import { TableCellBubbleMenu } from '@gitee/tide-extension-table';
+import { ImageBubbleMenu } from '@gitee/tide-extension-image';
 import {
   TextBubbleMenu,
   MenuBarContextProvider,
-} from '@norlandsoft/tide-extension-menubar';
+} from '@gitee/tide-extension-menubar';
 import { EditorLayout, EditorMenu, EditorContent } from './components';
 import type { TideEditor } from './TideEditor';
 

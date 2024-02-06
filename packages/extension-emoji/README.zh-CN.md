@@ -1,4 +1,4 @@
-# @norlandsoft/tide-extension-emoji
+# @gitee/tide-extension-emoji
 
 ## 介绍
 

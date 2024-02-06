@@ -4,7 +4,7 @@ import {
   SuggestionOptions,
   SuggestionProps,
 } from '@tiptap/suggestion';
-import { ReactRenderer } from '@norlandsoft/tide-react';
+import { ReactRenderer } from '@gitee/tide-react';
 import { EmojiItem } from './emoji';
 import EmojiPanel from './EmojiPanel';
 

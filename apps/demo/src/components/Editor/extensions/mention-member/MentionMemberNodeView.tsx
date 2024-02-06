@@ -1,6 +1,6 @@
 import React from 'react';
 import { mergeAttributes, NodeViewProps } from '@tiptap/core';
-import { NodeViewWrapper } from '@norlandsoft/tide-react';
+import { NodeViewWrapper } from '@gitee/tide-react';
 import styles from './MentionMemberNodeView.module.less';
 
 const MemberAvatar: React.FC = () => {

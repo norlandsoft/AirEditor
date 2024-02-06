@@ -1,4 +1,4 @@
-# @norlandsoft/tide-extension-strike
+# @gitee/tide-extension-strike
 
 ## Introduction
 

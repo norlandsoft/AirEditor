@@ -1,4 +1,4 @@
-# @norlandsoft/tide-react
+# @gitee/tide-react
 
 ## 介绍
 
