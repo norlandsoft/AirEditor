@@ -1,6 +1,6 @@
 {
-  "name": "@gitee/tide-extension-lists-indentation",
-  "version": "0.2.0-beta.1",
+  "name": "@norlandsoft/tide-extension-lists-indentation",
+  "version": "0.0.1",
   "main": "dist/index.js",
   "module": "dist/index.esm.js",
   "files": [

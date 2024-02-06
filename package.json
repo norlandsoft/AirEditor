@@ -1,12 +1,12 @@
 {
   "private": true,
   "scripts": {
-    "build": "turbo run build --filter=@gitee*",
+    "build": "turbo run build --filter=@norlandsoft*",
     "build:demo": "pnpm --filter demo build",
-    "build:nocache": "pnpm clear && turbo run build --force --filter=@gitee*",
+    "build:nocache": "pnpm clear && turbo run build --force --filter=@norlandsoft*",
     "clear": "turbo run clear --force",
     "dev:demo": "pnpm --filter demo dev",
-    "dev:legacy": "pnpm --filter @gitee/tide-legacy dev",
+    "dev:legacy": "pnpm --filter @norlandsoft/tide-legacy dev",
     "format": "prettier --write \"**/*.{ts,tsx,md}\"",
     "lint": "turbo run lint",
     "lint-staged": "lint-staged",

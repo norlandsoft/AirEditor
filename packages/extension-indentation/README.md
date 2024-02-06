@@ -1,4 +1,4 @@
-# @gitee/tide-extension-indentation
+# @norlandsoft/tide-extension-indentation
 
 ## Introduction
 

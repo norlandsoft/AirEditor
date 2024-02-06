@@ -1,7 +1,7 @@
 import React, { useCallback, useRef, useState } from 'react';
 import { Editor } from '@tiptap/core';
-import { SelectionBubbleMenu } from '@gitee/tide-react';
-import { isActive } from '@gitee/tide-common';
+import { SelectionBubbleMenu } from '@norlandsoft/tide-react';
+import { isActive } from '@norlandsoft/tide-common';
 import { showLinkEditPopup } from './LinkEditPopup';
 import { Link as LinkExtension } from '../link';
 import { IconPenBold, IconChainSlashBold } from '@gitee/icons-react';

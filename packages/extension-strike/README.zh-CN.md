@@ -1,4 +1,4 @@
-# @gitee/tide-extension-strike
+# @norlandsoft/tide-extension-strike
 
 ## 介绍
 

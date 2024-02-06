@@ -1,4 +1,4 @@
-# @gitee/tide-extension-ordered-list
+# @norlandsoft/tide-extension-ordered-list
 
 ## Introduction
 

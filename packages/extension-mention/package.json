@@ -1,6 +1,6 @@
 {
-  "name": "@gitee/tide-extension-mention",
-  "version": "0.2.0-beta.1",
+  "name": "@norlandsoft/tide-extension-mention",
+  "version": "0.0.1",
   "main": "dist/index.js",
   "module": "dist/index.esm.js",
   "files": [
@@ -15,7 +15,7 @@
     "clear": "rm -rf dist"
   },
   "dependencies": {
-    "@gitee/tide-react": "workspace:*",
+    "@norlandsoft/tide-react": "workspace:*",
     "@tiptap/extension-mention": "^2.0.3",
     "@tiptap/suggestion": "^2.0.3",
     "@babel/runtime-corejs3": "^7.21.0",

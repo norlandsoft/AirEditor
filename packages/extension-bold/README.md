@@ -1,4 +1,4 @@
-# @gitee/tide-extension-bold
+# @norlandsoft/tide-extension-bold
 
 ## Introduction
 

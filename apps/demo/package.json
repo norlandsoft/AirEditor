@@ -11,12 +11,12 @@
     "lint": "TIMING=1 eslint \"src/**/*.ts\""
   },
   "dependencies": {
-    "@gitee/tide": "workspace:*",
-    "@gitee/tide-extension-mention": "workspace:*",
-    "@gitee/tide-extension-uploader": "workspace:*",
-    "@gitee/tide-react": "workspace:*",
-    "@gitee/tide-starter-kit": "workspace:*",
-    "@gitee/tide-theme": "workspace:*",
+    "@norlandsoft/tide": "workspace:*",
+    "@norlandsoft/tide-extension-mention": "workspace:*",
+    "@norlandsoft/tide-extension-uploader": "workspace:*",
+    "@norlandsoft/tide-react": "workspace:*",
+    "@norlandsoft/tide-starter-kit": "workspace:*",
+    "@norlandsoft/tide-theme": "workspace:*",
     "@monaco-editor/react": "^4.5.1",
     "@tiptap/core": "^2.0.3",
     "@tiptap/extension-text-align": "^2.0.3",

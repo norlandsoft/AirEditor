@@ -1,6 +1,6 @@
 {
-  "name": "@gitee/tide-extension-uploader",
-  "version": "0.2.0-beta.1",
+  "name": "@norlandsoft/tide-extension-uploader",
+  "version": "0.0.1",
   "main": "dist/index.js",
   "module": "dist/index.esm.js",
   "files": [
@@ -15,8 +15,8 @@
     "clear": "rm -rf dist"
   },
   "dependencies": {
-    "@gitee/tide-theme": "workspace:*",
-    "@gitee/tide-common": "workspace:*",
+    "@norlandsoft/tide-theme": "workspace:*",
+    "@norlandsoft/tide-common": "workspace:*",
     "browser-fs-access": "^0.31.1",
     "@babel/runtime-corejs3": "^7.21.0"
   },

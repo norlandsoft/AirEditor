@@ -1,4 +1,4 @@
-# @gitee/tide-extension-code-block
+# @norlandsoft/tide-extension-code-block
 
 ## 介绍
 
@@ -21,21 +21,21 @@
 本扩展使用 `highlight.js` 作为代码高亮库，因此需要安装 `highlight.js`，并引入其样式文件。
 
 ```bash
-npm install --save @gitee/tide-extension-code-block highlight.js
+npm install --save @norlandsoft/tide-extension-code-block highlight.js
 # or
-yarn add @gitee/tide-extension-code-block highlight.js
+yarn add @norlandsoft/tide-extension-code-block highlight.js
 # or
-pnpm add @gitee/tide-extension-code-block highlight.js
+pnpm add @norlandsoft/tide-extension-code-block highlight.js
 ```
 
 在编辑器中启用本扩展：
 
 ```tsx
 import React, { useState } from 'react';
-import { EditorRender, JSONContent } from '@gitee/tide';
-import { CodeBlock } from '@gitee/tide-extension-code-block';
+import { EditorRender, JSONContent } from '@norlandsoft/tide';
+import { CodeBlock } from '@norlandsoft/tide-extension-code-block';
 
-import '@gitee/tide/dist/style.css';
+import '@norlandsoft/tide/dist/style.css';
 import 'highlight.js/styles/default.css';
 
 function App() {

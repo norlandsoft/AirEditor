@@ -1,4 +1,4 @@
-import { useEditor as useEditorOriginal } from '@gitee/tide-react';
+import { useEditor as useEditorOriginal } from '@norlandsoft/tide-react';
 import { TideEditor } from './TideEditor';
 
 import type { DependencyList } from 'react';

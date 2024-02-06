@@ -1,4 +1,4 @@
-# @gitee/tide-extension-blockquote
+# @norlandsoft/tide-extension-blockquote
 
 ## 介绍
 

@@ -1,4 +1,4 @@
-# @gitee/tide-extension-image
+# @norlandsoft/tide-extension-image
 
 ## 介绍
 

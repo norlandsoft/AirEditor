@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import { EditorRender, useEditor } from '@gitee/tide';
-import { StarterKit } from '@gitee/tide-starter-kit';
+import { EditorRender, useEditor } from '@norlandsoft/tide';
+import { StarterKit } from '@norlandsoft/tide-starter-kit';
 import { TextAlign } from '@tiptap/extension-text-align';
 import { ThemeContextProvider } from './contexts/ThemeContext';
 import HeaderBar from './components/HeaderBar';
@@ -12,7 +12,7 @@ import {
   mockImgUploader,
 } from './components/Editor/utils';
 
-import '@gitee/tide/dist/style.css';
+import '@norlandsoft/tide/dist/style.css';
 import 'highlight.js/styles/a11y-light.css';
 import './index.less';
 

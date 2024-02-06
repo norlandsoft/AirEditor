@@ -1,6 +1,6 @@
 {
-  "name": "@gitee/tide",
-  "version": "0.2.0-beta.1",
+  "name": "@norlandsoft/tide",
+  "version": "0.0.1",
   "main": "dist/index.js",
   "module": "dist/index.esm.js",
   "files": [
@@ -15,12 +15,12 @@
     "clear": "rm -rf dist"
   },
   "dependencies": {
-    "@gitee/tide-extension-image": "workspace:*",
-    "@gitee/tide-extension-link": "workspace:*",
-    "@gitee/tide-extension-table": "workspace:*",
-    "@gitee/tide-extension-menubar": "workspace:*",
-    "@gitee/tide-react": "workspace:*",
-    "@gitee/tide-theme": "workspace:*",
+    "@norlandsoft/tide-extension-image": "workspace:*",
+    "@norlandsoft/tide-extension-link": "workspace:*",
+    "@norlandsoft/tide-extension-table": "workspace:*",
+    "@norlandsoft/tide-extension-menubar": "workspace:*",
+    "@norlandsoft/tide-react": "workspace:*",
+    "@norlandsoft/tide-theme": "workspace:*",
     "@tiptap/extension-document": "^2.0.3",
     "@tiptap/extension-paragraph": "^2.0.3",
     "@tiptap/extension-text": "^2.0.3",

@@ -1,4 +1,4 @@
-# @gitee/tide-extension-italic
+# @norlandsoft/tide-extension-italic
 
 ## 介绍
 

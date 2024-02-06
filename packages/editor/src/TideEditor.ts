@@ -1,5 +1,5 @@
 import React from 'react';
-import { Editor } from '@gitee/tide-react';
+import { Editor } from '@norlandsoft/tide-react';
 import type { EditorOptions, Content, JSONContent } from '@tiptap/core';
 import type { Transaction, Plugin } from '@tiptap/pm/state';
 import type { ParseOptions } from '@tiptap/pm/model';
