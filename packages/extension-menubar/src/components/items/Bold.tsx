@@ -28,7 +28,7 @@ export const Bold: React.FC<BoldProps> = ({ className, style, title }) => {
           isActive={statusMap?.isActive}
           disabled={statusMap?.disabled}
         >
-          <IconBoldBold />
+          <IconBoldBold height={13} />
         </Button>
       </Tooltip>
     </MenuBarItem>

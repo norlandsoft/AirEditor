@@ -28,7 +28,7 @@ export const Italic: React.FC<ItalicProps> = ({ className, style, title }) => {
           isActive={statusMap?.isActive}
           disabled={statusMap?.disabled}
         >
-          <IconItalicBold />
+          <IconItalicBold height={13} />
         </Button>
       </Tooltip>
     </MenuBarItem>

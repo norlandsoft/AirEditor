@@ -28,7 +28,7 @@ export const Strike: React.FC<StrikeProps> = ({ className, style, title }) => {
           isActive={statusMap?.isActive}
           disabled={statusMap?.disabled}
         >
-          <IconStrikethroughBold />
+          <IconStrikethroughBold height={14} />
         </Button>
       </Tooltip>
     </MenuBarItem>
