@@ -101,27 +101,14 @@ const HeaderBar = ({ editor }: { editor: TideEditor | null }) => {
   return (
     <div className={'demo-header-bar'}>
       <div className={'demo-header-bar-left'}>
-        <a href="https://gitee.com/oschina/tide" className="link-repository">
-          <img src={icon} alt="@norlandsoft/tide" />
-          @norlandsoft/tide
-        </a>
         <a
-          href="https://gitee.com/oschina/tide/stargazers"
+          href="https://github.com/norlandsoft/AirEditor"
           target="_blank"
           rel="noreferrer"
-          className="ml-2"
-          style={{ display: 'flex' }}
+          className="link-repository"
         >
-          <img
-            src="https://gitee.com/oschina/tide/badge/star.svg?theme=white"
-            alt="star"
-            className="dark-hide"
-          />
-          <img
-            src="https://gitee.com/oschina/tide/badge/star.svg?theme=dark"
-            alt="star"
-            className="light-hide"
-          />
+          <img src={icon} alt="@norlandsoft/tide" />
+          @norlandsoft/tide
         </a>
       </div>
       <div className={'demo-header-bar-right'}>
