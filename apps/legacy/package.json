@@ -5,6 +5,9 @@
   "main": "dist/index.js",
   "module": "dist/index.esm.js",
   "types": "dist/types/lib.d.ts",
+  "publishConfig": {
+    "access": "public"
+  },
   "files": [
     "dist"
   ],
