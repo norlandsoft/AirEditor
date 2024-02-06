@@ -18,7 +18,7 @@ import './index.less';
 
 const params = new URLSearchParams(window.location.search);
 const isTest = params.get('test');
-console.log('BUILD_TIME：', __BUILD_TIME__);
+// console.log('BUILD_TIME：', __BUILD_TIME__);
 
 function App() {
   const editor = useEditor({
@@ -67,17 +67,6 @@ function App() {
           {isTest ? null : (
             <div className="demo-inspect">
               <InspectPanel editor={editor} />
-              <a
-                href="https://gitee.com/oschina/tide"
-                target="_blank"
-                rel="noreferrer"
-                style={{ position: 'absolute', top: 0, right: 0 }}
-              >
-                <img
-                  src="https://gitee.com/oschina/tide/widgets/widget_1.svg"
-                  alt="Fork me on Gitee"
-                />
-              </a>
             </div>
           )}
         </div>
