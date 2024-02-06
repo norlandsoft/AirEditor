@@ -29,13 +29,9 @@ export const getImageFileList = (files: FileList) =>
     .filter((file) => file.type.includes('image'));
 
 export async function selectImageUpload(editor: Editor): Promise<void> {
-  try {
-    const files = await fileOpen({
-      mimeTypes: ['image/*'],
-      multiple: true,
-    });
-    editor.commands.uploadImage(files);
-  } catch (error) {
-    // eslint-disable-next-line no-console
-  }
+  const files = await fileOpen({
+    mimeTypes: ['image/*'],
+    multiple: true,
+  });
+  editor.commands.uploadImage(files);
 }
