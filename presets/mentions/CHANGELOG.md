@@ -1,8 +1,8 @@
-# @gitee/tide-presets-mentions
+# @norlandsoft/tide-presets-mentions
 
 ## 0.2.0-beta.1
 
-**Note:** Version bump only for package @gitee/tide-presets-mentions
+**Note:** Version bump only for package @norlandsoft/tide-presets-mentions
 
 ## 0.2.0-beta.0
 
@@ -13,34 +13,34 @@
 ### Patch Changes
 
 - Updated dependencies
-  - @gitee/tide-common@0.2.0-beta.0
-  - @gitee/tide-extension-mention@0.2.0-beta.0
-  - @gitee/tide-react@0.2.0-beta.0
-  - @gitee/tide-theme@0.2.0-beta.0
+  - @norlandsoft/tide-common@0.2.0-beta.0
+  - @norlandsoft/tide-extension-mention@0.2.0-beta.0
+  - @norlandsoft/tide-react@0.2.0-beta.0
+  - @norlandsoft/tide-theme@0.2.0-beta.0
 
 ## 0.2.0-alpha.6
 
-**Note:** Version bump only for package @gitee/tide-presets-mentions
+**Note:** Version bump only for package @norlandsoft/tide-presets-mentions
 
 ## 0.2.0-alpha.5
 
-**Note:** Version bump only for package @gitee/tide-presets-mentions
+**Note:** Version bump only for package @norlandsoft/tide-presets-mentions
 
 ## 0.2.0-alpha.4
 
-**Note:** Version bump only for package @gitee/tide-presets-mentions
+**Note:** Version bump only for package @norlandsoft/tide-presets-mentions
 
 ## 0.2.0-alpha.3
 
-**Note:** Version bump only for package @gitee/tide-presets-mentions
+**Note:** Version bump only for package @norlandsoft/tide-presets-mentions
 
 ## 0.2.0-alpha.2
 
-**Note:** Version bump only for package @gitee/tide-presets-mentions
+**Note:** Version bump only for package @norlandsoft/tide-presets-mentions
 
 ## 0.2.0-alpha.1
 
-**Note:** Version bump only for package @gitee/tide-presets-mentions
+**Note:** Version bump only for package @norlandsoft/tide-presets-mentions
 
 ## 0.2.0-alpha.0
 
@@ -51,11 +51,11 @@
 ### Patch Changes
 
 - Updated dependencies
-  - @gitee/tide-common@0.2.0-alpha.0
-  - @gitee/tide-extension-bubble-menu@0.2.0-alpha.0
-  - @gitee/tide-extension-mention@0.2.0-alpha.0
-  - @gitee/tide-react@0.2.0-alpha.0
-  - @gitee/tide-theme@0.2.0-alpha.0
+  - @norlandsoft/tide-common@0.2.0-alpha.0
+  - @norlandsoft/tide-extension-bubble-menu@0.2.0-alpha.0
+  - @norlandsoft/tide-extension-mention@0.2.0-alpha.0
+  - @norlandsoft/tide-react@0.2.0-alpha.0
+  - @norlandsoft/tide-theme@0.2.0-alpha.0
 
 ## 0.1.0-alpha.3
 
@@ -66,11 +66,11 @@
 ### Patch Changes
 
 - Updated dependencies
-  - @gitee/tide-common@0.1.0-alpha.18
-  - @gitee/tide-extension-bubble-menu@0.1.0-alpha.18
-  - @gitee/tide-extension-mention@0.1.0-alpha.18
-  - @gitee/tide-react@0.1.0-alpha.18
-  - @gitee/tide-theme@0.1.0-alpha.18
+  - @norlandsoft/tide-common@0.1.0-alpha.18
+  - @norlandsoft/tide-extension-bubble-menu@0.1.0-alpha.18
+  - @norlandsoft/tide-extension-mention@0.1.0-alpha.18
+  - @norlandsoft/tide-react@0.1.0-alpha.18
+  - @norlandsoft/tide-theme@0.1.0-alpha.18
 
 ## 0.1.0-alpha.2
 
@@ -81,11 +81,11 @@
 ### Patch Changes
 
 - Updated dependencies
-  - @gitee/tide-common@0.1.0-alpha.17
-  - @gitee/tide-extension-bubble-menu@0.1.0-alpha.17
-  - @gitee/tide-extension-mention@0.1.0-alpha.17
-  - @gitee/tide-react@0.1.0-alpha.17
-  - @gitee/tide-theme@0.1.0-alpha.17
+  - @norlandsoft/tide-common@0.1.0-alpha.17
+  - @norlandsoft/tide-extension-bubble-menu@0.1.0-alpha.17
+  - @norlandsoft/tide-extension-mention@0.1.0-alpha.17
+  - @norlandsoft/tide-react@0.1.0-alpha.17
+  - @norlandsoft/tide-theme@0.1.0-alpha.17
 
 ## 0.1.0-alpha.1
 
@@ -96,11 +96,11 @@
 ### Patch Changes
 
 - Updated dependencies
-  - @gitee/tide-common@0.1.0-alpha.16
-  - @gitee/tide-extension-bubble-menu@0.1.0-alpha.16
-  - @gitee/tide-extension-mention@0.1.0-alpha.16
-  - @gitee/tide-react@0.1.0-alpha.16
-  - @gitee/tide-theme@0.1.0-alpha.16
+  - @norlandsoft/tide-common@0.1.0-alpha.16
+  - @norlandsoft/tide-extension-bubble-menu@0.1.0-alpha.16
+  - @norlandsoft/tide-extension-mention@0.1.0-alpha.16
+  - @norlandsoft/tide-react@0.1.0-alpha.16
+  - @norlandsoft/tide-theme@0.1.0-alpha.16
 
 ## 0.1.0-alpha.0
 
@@ -111,8 +111,8 @@
 ### Patch Changes
 
 - Updated dependencies
-  - @gitee/tide-common@0.1.0-alpha.15
-  - @gitee/tide-extension-bubble-menu@0.1.0-alpha.15
-  - @gitee/tide-extension-mention@0.1.0-alpha.15
-  - @gitee/tide-react@0.1.0-alpha.15
-  - @gitee/tide-theme@0.1.0-alpha.15
+  - @norlandsoft/tide-common@0.1.0-alpha.15
+  - @norlandsoft/tide-extension-bubble-menu@0.1.0-alpha.15
+  - @norlandsoft/tide-extension-mention@0.1.0-alpha.15
+  - @norlandsoft/tide-react@0.1.0-alpha.15
+  - @norlandsoft/tide-theme@0.1.0-alpha.15

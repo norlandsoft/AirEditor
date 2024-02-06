@@ -1,4 +1,4 @@
-import { isWindows } from '@gitee/tide-common';
+import { isWindows } from '@norlandsoft/tide-common';
 
 export const command = isWindows() ? 'Ctrl' : '⌘';
 

@@ -1,4 +1,4 @@
-# @gitee/tide-extension-uploader
+# @norlandsoft/tide-extension-uploader
 
 ## 介绍
 

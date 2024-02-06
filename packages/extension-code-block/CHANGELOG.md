@@ -1,8 +1,8 @@
-# @gitee/tide-extension-code-block
+# @norlandsoft/tide-extension-code-block
 
 ## 0.2.0-beta.1
 
-**Note:** Version bump only for package @gitee/tide-extension-code-block
+**Note:** Version bump only for package @norlandsoft/tide-extension-code-block
 
 ## 0.2.0-beta.0
 
@@ -13,33 +13,33 @@
 ### Patch Changes
 
 - Updated dependencies
-  - @gitee/tide-common@0.2.0-beta.0
-  - @gitee/tide-react@0.2.0-beta.0
-  - @gitee/tide-theme@0.2.0-beta.0
+  - @norlandsoft/tide-common@0.2.0-beta.0
+  - @norlandsoft/tide-react@0.2.0-beta.0
+  - @norlandsoft/tide-theme@0.2.0-beta.0
 
 ## 0.2.0-alpha.6
 
-**Note:** Version bump only for package @gitee/tide-extension-code-block
+**Note:** Version bump only for package @norlandsoft/tide-extension-code-block
 
 ## 0.2.0-alpha.5
 
-**Note:** Version bump only for package @gitee/tide-extension-code-block
+**Note:** Version bump only for package @norlandsoft/tide-extension-code-block
 
 ## 0.2.0-alpha.4
 
-**Note:** Version bump only for package @gitee/tide-extension-code-block
+**Note:** Version bump only for package @norlandsoft/tide-extension-code-block
 
 ## 0.2.0-alpha.3
 
-**Note:** Version bump only for package @gitee/tide-extension-code-block
+**Note:** Version bump only for package @norlandsoft/tide-extension-code-block
 
 ## 0.2.0-alpha.2
 
-**Note:** Version bump only for package @gitee/tide-extension-code-block
+**Note:** Version bump only for package @norlandsoft/tide-extension-code-block
 
 ## 0.2.0-alpha.1
 
-**Note:** Version bump only for package @gitee/tide-extension-code-block
+**Note:** Version bump only for package @norlandsoft/tide-extension-code-block
 
 ## 0.2.0-alpha.0
 
@@ -50,9 +50,9 @@
 ### Patch Changes
 
 - Updated dependencies
-  - @gitee/tide-common@0.2.0-alpha.0
-  - @gitee/tide-react@0.2.0-alpha.0
-  - @gitee/tide-theme@0.2.0-alpha.0
+  - @norlandsoft/tide-common@0.2.0-alpha.0
+  - @norlandsoft/tide-react@0.2.0-alpha.0
+  - @norlandsoft/tide-theme@0.2.0-alpha.0
 
 ## 0.1.0-alpha.18
 
@@ -63,9 +63,9 @@
 ### Patch Changes
 
 - Updated dependencies
-  - @gitee/tide-common@0.1.0-alpha.18
-  - @gitee/tide-react@0.1.0-alpha.18
-  - @gitee/tide-theme@0.1.0-alpha.18
+  - @norlandsoft/tide-common@0.1.0-alpha.18
+  - @norlandsoft/tide-react@0.1.0-alpha.18
+  - @norlandsoft/tide-theme@0.1.0-alpha.18
 
 ## 0.1.0-alpha.17
 
@@ -76,9 +76,9 @@
 ### Patch Changes
 
 - Updated dependencies
-  - @gitee/tide-common@0.1.0-alpha.17
-  - @gitee/tide-react@0.1.0-alpha.17
-  - @gitee/tide-theme@0.1.0-alpha.17
+  - @norlandsoft/tide-common@0.1.0-alpha.17
+  - @norlandsoft/tide-react@0.1.0-alpha.17
+  - @norlandsoft/tide-theme@0.1.0-alpha.17
 
 ## 0.1.0-alpha.16
 
@@ -89,9 +89,9 @@
 ### Patch Changes
 
 - Updated dependencies
-  - @gitee/tide-common@0.1.0-alpha.16
-  - @gitee/tide-react@0.1.0-alpha.16
-  - @gitee/tide-theme@0.1.0-alpha.16
+  - @norlandsoft/tide-common@0.1.0-alpha.16
+  - @norlandsoft/tide-react@0.1.0-alpha.16
+  - @norlandsoft/tide-theme@0.1.0-alpha.16
 
 ## 0.1.0-alpha.15
 
@@ -102,9 +102,9 @@
 ### Patch Changes
 
 - Updated dependencies
-  - @gitee/tide-common@0.1.0-alpha.15
-  - @gitee/tide-react@0.1.0-alpha.15
-  - @gitee/tide-theme@0.1.0-alpha.15
+  - @norlandsoft/tide-common@0.1.0-alpha.15
+  - @norlandsoft/tide-react@0.1.0-alpha.15
+  - @norlandsoft/tide-theme@0.1.0-alpha.15
 
 ## 0.1.0-alpha.14
 
@@ -115,9 +115,9 @@
 ### Patch Changes
 
 - Updated dependencies
-  - @gitee/tide-common@0.1.0-alpha.14
-  - @gitee/tide-react@0.1.0-alpha.14
-  - @gitee/tide-theme@0.1.0-alpha.14
+  - @norlandsoft/tide-common@0.1.0-alpha.14
+  - @norlandsoft/tide-react@0.1.0-alpha.14
+  - @norlandsoft/tide-theme@0.1.0-alpha.14
 
 ## 0.1.0-alpha.13
 
@@ -128,9 +128,9 @@
 ### Patch Changes
 
 - Updated dependencies
-  - @gitee/tide-common@0.1.0-alpha.13
-  - @gitee/tide-react@0.1.0-alpha.13
-  - @gitee/tide-theme@0.1.0-alpha.13
+  - @norlandsoft/tide-common@0.1.0-alpha.13
+  - @norlandsoft/tide-react@0.1.0-alpha.13
+  - @norlandsoft/tide-theme@0.1.0-alpha.13
 
 ## 0.1.0-alpha.12
 
@@ -141,9 +141,9 @@
 ### Patch Changes
 
 - Updated dependencies
-  - @gitee/tide-common@0.1.0-alpha.12
-  - @gitee/tide-react@0.1.0-alpha.12
-  - @gitee/tide-theme@0.1.0-alpha.12
+  - @norlandsoft/tide-common@0.1.0-alpha.12
+  - @norlandsoft/tide-react@0.1.0-alpha.12
+  - @norlandsoft/tide-theme@0.1.0-alpha.12
 
 ## 0.1.0-alpha.11
 
@@ -154,9 +154,9 @@
 ### Patch Changes
 
 - Updated dependencies
-  - @gitee/tide-common@0.1.0-alpha.11
-  - @gitee/tide-react@0.1.0-alpha.11
-  - @gitee/tide-theme@0.1.0-alpha.11
+  - @norlandsoft/tide-common@0.1.0-alpha.11
+  - @norlandsoft/tide-react@0.1.0-alpha.11
+  - @norlandsoft/tide-theme@0.1.0-alpha.11
 
 ## 0.1.0-alpha.10
 
@@ -173,9 +173,9 @@
 ### Patch Changes
 
 - Updated dependencies
-  - @gitee/tide-common@0.1.0-alpha.10
-  - @gitee/tide-react@0.1.0-alpha.10
-  - @gitee/tide-theme@0.1.0-alpha.10
+  - @norlandsoft/tide-common@0.1.0-alpha.10
+  - @norlandsoft/tide-react@0.1.0-alpha.10
+  - @norlandsoft/tide-theme@0.1.0-alpha.10
 
 ## 0.1.0-alpha.9
 
@@ -186,9 +186,9 @@
 ### Patch Changes
 
 - Updated dependencies
-  - @gitee/tide-common@0.1.0-alpha.9
-  - @gitee/tide-react@0.1.0-alpha.9
-  - @gitee/tide-theme@0.1.0-alpha.9
+  - @norlandsoft/tide-common@0.1.0-alpha.9
+  - @norlandsoft/tide-react@0.1.0-alpha.9
+  - @norlandsoft/tide-theme@0.1.0-alpha.9
 
 ## 0.1.0-alpha.8
 
@@ -199,9 +199,9 @@
 ### Patch Changes
 
 - Updated dependencies
-  - @gitee/tide-common@0.1.0-alpha.8
-  - @gitee/tide-react@0.1.0-alpha.8
-  - @gitee/tide-theme@0.1.0-alpha.8
+  - @norlandsoft/tide-common@0.1.0-alpha.8
+  - @norlandsoft/tide-react@0.1.0-alpha.8
+  - @norlandsoft/tide-theme@0.1.0-alpha.8
 
 ## 0.1.0-alpha.7
 
@@ -212,9 +212,9 @@
 ### Patch Changes
 
 - Updated dependencies
-  - @gitee/tide-common@0.1.0-alpha.7
-  - @gitee/tide-react@0.1.0-alpha.7
-  - @gitee/tide-theme@0.1.0-alpha.7
+  - @norlandsoft/tide-common@0.1.0-alpha.7
+  - @norlandsoft/tide-react@0.1.0-alpha.7
+  - @norlandsoft/tide-theme@0.1.0-alpha.7
 
 ## 0.1.0-alpha.6
 
@@ -225,22 +225,22 @@
 ### Patch Changes
 
 - Updated dependencies
-  - @gitee/tide-common@0.1.0-alpha.6
-  - @gitee/tide-react@0.1.0-alpha.6
-  - @gitee/tide-theme@0.1.0-alpha.6
+  - @norlandsoft/tide-common@0.1.0-alpha.6
+  - @norlandsoft/tide-react@0.1.0-alpha.6
+  - @norlandsoft/tide-theme@0.1.0-alpha.6
 
 ## 0.1.0-alpha.5
 
 ### Minor Changes
 
-- Refactor @gitee/tide-extension-bubble-menu.
+- Refactor @norlandsoft/tide-extension-bubble-menu.
 
 ### Patch Changes
 
 - Updated dependencies
-  - @gitee/tide-react@0.1.0-alpha.5
-  - @gitee/tide-common@0.1.0-alpha.5
-  - @gitee/tide-theme@0.1.0-alpha.5
+  - @norlandsoft/tide-react@0.1.0-alpha.5
+  - @norlandsoft/tide-common@0.1.0-alpha.5
+  - @norlandsoft/tide-theme@0.1.0-alpha.5
 
 ## 0.1.0-alpha.4
 
@@ -251,9 +251,9 @@
 ### Patch Changes
 
 - Updated dependencies
-  - @gitee/tide-common@0.1.0-alpha.4
-  - @gitee/tide-react@0.1.0-alpha.4
-  - @gitee/tide-theme@0.1.0-alpha.4
+  - @norlandsoft/tide-common@0.1.0-alpha.4
+  - @norlandsoft/tide-react@0.1.0-alpha.4
+  - @norlandsoft/tide-theme@0.1.0-alpha.4
 
 ## 0.1.0-alpha.3
 
@@ -264,9 +264,9 @@
 ### Patch Changes
 
 - Updated dependencies
-  - @gitee/tide-common@0.1.0-alpha.3
-  - @gitee/tide-react@0.1.0-alpha.3
-  - @gitee/tide-theme@0.1.0-alpha.3
+  - @norlandsoft/tide-common@0.1.0-alpha.3
+  - @norlandsoft/tide-react@0.1.0-alpha.3
+  - @norlandsoft/tide-theme@0.1.0-alpha.3
 
 ## 0.1.0-alpha.2
 
@@ -277,9 +277,9 @@
 ### Patch Changes
 
 - Updated dependencies
-  - @gitee/tide-common@0.1.0-alpha.2
-  - @gitee/tide-react@0.1.0-alpha.2
-  - @gitee/tide-theme@0.1.0-alpha.2
+  - @norlandsoft/tide-common@0.1.0-alpha.2
+  - @norlandsoft/tide-react@0.1.0-alpha.2
+  - @norlandsoft/tide-theme@0.1.0-alpha.2
 
 ## 0.1.0-alpha.1
 
@@ -290,9 +290,9 @@
 ### Patch Changes
 
 - Updated dependencies
-  - @gitee/tide-common@0.1.0-alpha.1
-  - @gitee/tide-react@0.1.0-alpha.1
-  - @gitee/tide-theme@0.1.0-alpha.1
+  - @norlandsoft/tide-common@0.1.0-alpha.1
+  - @norlandsoft/tide-react@0.1.0-alpha.1
+  - @norlandsoft/tide-theme@0.1.0-alpha.1
 
 ## 0.1.0-alpha.0
 
@@ -303,5 +303,5 @@
 ### Patch Changes
 
 - Updated dependencies
-  - @gitee/tide-common@0.1.0-alpha.0
-  - @gitee/tide-react@0.1.0-alpha.0
+  - @norlandsoft/tide-common@0.1.0-alpha.0
+  - @norlandsoft/tide-react@0.1.0-alpha.0

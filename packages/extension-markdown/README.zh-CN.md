@@ -1,4 +1,4 @@
-# @gitee/tide-extension-markdown
+# @norlandsoft/tide-extension-markdown
 
 ## 介绍
 

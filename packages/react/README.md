@@ -1,4 +1,4 @@
-# @gitee/tide-react
+# @norlandsoft/tide-react
 
 ## Introduction
 

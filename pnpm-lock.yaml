@@ -110,22 +110,22 @@ importers:
 
   apps/demo:
     dependencies:
-      '@gitee/tide':
+      '@norlandsoft/tide':
         specifier: workspace:*
         version: link:../../packages/editor
-      '@gitee/tide-extension-mention':
+      '@norlandsoft/tide-extension-mention':
         specifier: workspace:*
         version: link:../../packages/extension-mention
-      '@gitee/tide-extension-uploader':
+      '@norlandsoft/tide-extension-uploader':
         specifier: workspace:*
         version: link:../../packages/extension-uploader
-      '@gitee/tide-react':
+      '@norlandsoft/tide-react':
         specifier: workspace:*
         version: link:../../packages/react
-      '@gitee/tide-starter-kit':
+      '@norlandsoft/tide-starter-kit':
         specifier: workspace:*
         version: link:../../packages/starter-kit
-      '@gitee/tide-theme':
+      '@norlandsoft/tide-theme':
         specifier: workspace:*
         version: link:../../packages/theme
       '@monaco-editor/react':
@@ -216,28 +216,28 @@ importers:
 
   apps/legacy:
     dependencies:
-      '@gitee/tide':
+      '@norlandsoft/tide':
         specifier: workspace:*
         version: link:../../packages/editor
-      '@gitee/tide-extension-image':
+      '@norlandsoft/tide-extension-image':
         specifier: workspace:*
         version: link:../../packages/extension-image
-      '@gitee/tide-extension-mention':
+      '@norlandsoft/tide-extension-mention':
         specifier: workspace:*
         version: link:../../packages/extension-mention
-      '@gitee/tide-extension-uploader':
+      '@norlandsoft/tide-extension-uploader':
         specifier: workspace:*
         version: link:../../packages/extension-uploader
-      '@gitee/tide-presets-mentions':
+      '@norlandsoft/tide-presets-mentions':
         specifier: workspace:*
         version: link:../../presets/mentions
-      '@gitee/tide-react':
+      '@norlandsoft/tide-react':
         specifier: workspace:*
         version: link:../../packages/react
-      '@gitee/tide-starter-kit':
+      '@norlandsoft/tide-starter-kit':
         specifier: workspace:*
         version: link:../../packages/starter-kit
-      '@gitee/tide-theme':
+      '@norlandsoft/tide-theme':
         specifier: workspace:*
         version: link:../../packages/theme
       '@tippyjs/react':
@@ -350,22 +350,22 @@ importers:
       '@babel/runtime-corejs3':
         specifier: ^7.21.0
         version: 7.21.0
-      '@gitee/tide-extension-image':
+      '@norlandsoft/tide-extension-image':
         specifier: workspace:*
         version: link:../extension-image
-      '@gitee/tide-extension-link':
+      '@norlandsoft/tide-extension-link':
         specifier: workspace:*
         version: link:../extension-link
-      '@gitee/tide-extension-menubar':
+      '@norlandsoft/tide-extension-menubar':
         specifier: workspace:*
         version: link:../extension-menubar
-      '@gitee/tide-extension-table':
+      '@norlandsoft/tide-extension-table':
         specifier: workspace:*
         version: link:../extension-table
-      '@gitee/tide-react':
+      '@norlandsoft/tide-react':
         specifier: workspace:*
         version: link:../react
-      '@gitee/tide-theme':
+      '@norlandsoft/tide-theme':
         specifier: workspace:*
         version: link:../theme
       '@tiptap/extension-document':
@@ -435,7 +435,7 @@ importers:
       '@babel/runtime-corejs3':
         specifier: ^7.21.0
         version: 7.21.0
-      '@gitee/tide-common':
+      '@norlandsoft/tide-common':
         specifier: workspace:*
         version: link:../common
       '@tiptap/extension-blockquote':
@@ -482,7 +482,7 @@ importers:
       '@babel/runtime-corejs3':
         specifier: ^7.21.0
         version: 7.21.0
-      '@gitee/tide-common':
+      '@norlandsoft/tide-common':
         specifier: workspace:*
         version: link:../common
       '@tiptap/extension-bullet-list':
@@ -529,13 +529,13 @@ importers:
       '@babel/runtime-corejs3':
         specifier: ^7.21.0
         version: 7.21.0
-      '@gitee/tide-common':
+      '@norlandsoft/tide-common':
         specifier: workspace:*
         version: link:../common
-      '@gitee/tide-react':
+      '@norlandsoft/tide-react':
         specifier: workspace:*
         version: link:../react
-      '@gitee/tide-theme':
+      '@norlandsoft/tide-theme':
         specifier: workspace:*
         version: link:../theme
       '@tippyjs/react':
@@ -593,10 +593,10 @@ importers:
       '@babel/runtime-corejs3':
         specifier: ^7.21.0
         version: 7.21.0
-      '@gitee/tide-react':
+      '@norlandsoft/tide-react':
         specifier: workspace:*
         version: link:../react
-      '@gitee/tide-theme':
+      '@norlandsoft/tide-theme':
         specifier: workspace:*
         version: link:../theme
       '@tippyjs/react':
@@ -682,13 +682,13 @@ importers:
       '@babel/runtime-corejs3':
         specifier: ^7.21.0
         version: 7.21.0
-      '@gitee/tide-common':
+      '@norlandsoft/tide-common':
         specifier: workspace:*
         version: link:../common
-      '@gitee/tide-react':
+      '@norlandsoft/tide-react':
         specifier: workspace:*
         version: link:../react
-      '@gitee/tide-theme':
+      '@norlandsoft/tide-theme':
         specifier: workspace:*
         version: link:../theme
       '@tippyjs/react':
@@ -787,13 +787,13 @@ importers:
       '@babel/runtime-corejs3':
         specifier: ^7.21.0
         version: 7.21.0
-      '@gitee/tide-common':
+      '@norlandsoft/tide-common':
         specifier: workspace:*
         version: link:../common
-      '@gitee/tide-react':
+      '@norlandsoft/tide-react':
         specifier: workspace:*
         version: link:../react
-      '@gitee/tide-theme':
+      '@norlandsoft/tide-theme':
         specifier: workspace:*
         version: link:../theme
       '@tiptap/extension-link':
@@ -905,7 +905,7 @@ importers:
       '@babel/runtime-corejs3':
         specifier: ^7.21.0
         version: 7.21.0
-      '@gitee/tide-react':
+      '@norlandsoft/tide-react':
         specifier: workspace:*
         version: link:../react
       '@tiptap/extension-mention':
@@ -954,22 +954,22 @@ importers:
       '@babel/runtime-corejs3':
         specifier: ^7.21.0
         version: 7.21.0
-      '@gitee/tide-common':
+      '@norlandsoft/tide-common':
         specifier: workspace:*
         version: link:../common
-      '@gitee/tide-extension-emoji':
+      '@norlandsoft/tide-extension-emoji':
         specifier: workspace:*
         version: link:../extension-emoji
-      '@gitee/tide-extension-table':
+      '@norlandsoft/tide-extension-table':
         specifier: workspace:*
         version: link:../extension-table
-      '@gitee/tide-extension-uploader':
+      '@norlandsoft/tide-extension-uploader':
         specifier: workspace:*
         version: link:../extension-uploader
-      '@gitee/tide-react':
+      '@norlandsoft/tide-react':
         specifier: workspace:*
         version: link:../react
-      '@gitee/tide-theme':
+      '@norlandsoft/tide-theme':
         specifier: workspace:*
         version: link:../theme
       '@tippyjs/react':
@@ -1030,7 +1030,7 @@ importers:
       '@babel/runtime-corejs3':
         specifier: ^7.21.0
         version: 7.21.0
-      '@gitee/tide-common':
+      '@norlandsoft/tide-common':
         specifier: workspace:*
         version: link:../common
       '@tiptap/extension-ordered-list':
@@ -1077,10 +1077,10 @@ importers:
       '@babel/runtime-corejs3':
         specifier: ^7.21.0
         version: 7.21.0
-      '@gitee/tide-react':
+      '@norlandsoft/tide-react':
         specifier: workspace:*
         version: link:../react
-      '@gitee/tide-theme':
+      '@norlandsoft/tide-theme':
         specifier: workspace:*
         version: link:../theme
       '@tippyjs/react':
@@ -1141,7 +1141,7 @@ importers:
       '@babel/runtime-corejs3':
         specifier: ^7.21.0
         version: 7.21.0
-      '@gitee/tide-common':
+      '@norlandsoft/tide-common':
         specifier: workspace:*
         version: link:../common
     devDependencies:
@@ -1166,10 +1166,10 @@ importers:
       '@babel/runtime-corejs3':
         specifier: ^7.21.0
         version: 7.21.0
-      '@gitee/tide-common':
+      '@norlandsoft/tide-common':
         specifier: workspace:*
         version: link:../common
-      '@gitee/tide-theme':
+      '@norlandsoft/tide-theme':
         specifier: workspace:*
         version: link:../theme
       browser-fs-access:
@@ -1243,76 +1243,76 @@ importers:
       '@babel/runtime-corejs3':
         specifier: ^7.21.0
         version: 7.21.0
-      '@gitee/tide-common':
+      '@norlandsoft/tide-common':
         specifier: workspace:*
         version: link:../common
-      '@gitee/tide-extension-blockquote':
+      '@norlandsoft/tide-extension-blockquote':
         specifier: workspace:*
         version: link:../extension-blockquote
-      '@gitee/tide-extension-bold':
+      '@norlandsoft/tide-extension-bold':
         specifier: workspace:*
         version: link:../extension-bold
-      '@gitee/tide-extension-bullet-list':
+      '@norlandsoft/tide-extension-bullet-list':
         specifier: workspace:*
         version: link:../extension-bullet-list
-      '@gitee/tide-extension-code':
+      '@norlandsoft/tide-extension-code':
         specifier: workspace:*
         version: link:../extension-code
-      '@gitee/tide-extension-code-block':
+      '@norlandsoft/tide-extension-code-block':
         specifier: workspace:*
         version: link:../extension-code-block
-      '@gitee/tide-extension-emoji':
+      '@norlandsoft/tide-extension-emoji':
         specifier: workspace:*
         version: link:../extension-emoji
-      '@gitee/tide-extension-horizontal-rule':
+      '@norlandsoft/tide-extension-horizontal-rule':
         specifier: workspace:*
         version: link:../extension-horizontal-rule
-      '@gitee/tide-extension-image':
+      '@norlandsoft/tide-extension-image':
         specifier: workspace:*
         version: link:../extension-image
-      '@gitee/tide-extension-indentation':
+      '@norlandsoft/tide-extension-indentation':
         specifier: workspace:*
         version: link:../extension-indentation
-      '@gitee/tide-extension-italic':
+      '@norlandsoft/tide-extension-italic':
         specifier: workspace:*
         version: link:../extension-italic
-      '@gitee/tide-extension-link':
+      '@norlandsoft/tide-extension-link':
         specifier: workspace:*
         version: link:../extension-link
-      '@gitee/tide-extension-list-item':
+      '@norlandsoft/tide-extension-list-item':
         specifier: workspace:*
         version: link:../extension-list-item
-      '@gitee/tide-extension-lists-indentation':
+      '@norlandsoft/tide-extension-lists-indentation':
         specifier: workspace:*
         version: link:../extension-lists-indentation
-      '@gitee/tide-extension-markdown':
+      '@norlandsoft/tide-extension-markdown':
         specifier: workspace:*
         version: link:../extension-markdown
-      '@gitee/tide-extension-mention':
+      '@norlandsoft/tide-extension-mention':
         specifier: workspace:*
         version: link:../extension-mention
-      '@gitee/tide-extension-menubar':
+      '@norlandsoft/tide-extension-menubar':
         specifier: workspace:*
         version: link:../extension-menubar
-      '@gitee/tide-extension-ordered-list':
+      '@norlandsoft/tide-extension-ordered-list':
         specifier: workspace:*
         version: link:../extension-ordered-list
-      '@gitee/tide-extension-strike':
+      '@norlandsoft/tide-extension-strike':
         specifier: workspace:*
         version: link:../extension-strike
-      '@gitee/tide-extension-table':
+      '@norlandsoft/tide-extension-table':
         specifier: workspace:*
         version: link:../extension-table
-      '@gitee/tide-extension-task-item':
+      '@norlandsoft/tide-extension-task-item':
         specifier: workspace:*
         version: link:../extension-task-item
-      '@gitee/tide-extension-uploader':
+      '@norlandsoft/tide-extension-uploader':
         specifier: workspace:*
         version: link:../extension-uploader
-      '@gitee/tide-react':
+      '@norlandsoft/tide-react':
         specifier: workspace:*
         version: link:../react
-      '@gitee/tide-theme':
+      '@norlandsoft/tide-theme':
         specifier: workspace:*
         version: link:../theme
       '@tiptap/extension-document':
@@ -1417,16 +1417,16 @@ importers:
       '@gitee/icons-react':
         specifier: ^0.1.49
         version: 0.1.49(react@16.14.0)
-      '@gitee/tide-common':
+      '@norlandsoft/tide-common':
         specifier: workspace:*
         version: link:../../packages/common
-      '@gitee/tide-extension-mention':
+      '@norlandsoft/tide-extension-mention':
         specifier: workspace:*
         version: link:../../packages/extension-mention
-      '@gitee/tide-react':
+      '@norlandsoft/tide-react':
         specifier: workspace:*
         version: link:../../packages/react
-      '@gitee/tide-theme':
+      '@norlandsoft/tide-theme':
         specifier: workspace:*
         version: link:../../packages/theme
       '@tippyjs/react':

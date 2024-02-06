@@ -1,8 +1,8 @@
-# @gitee/tide-react
+# @norlandsoft/tide-react
 
 ## 0.2.0-beta.1
 
-**Note:** Version bump only for package @gitee/tide-react
+**Note:** Version bump only for package @norlandsoft/tide-react
 
 ## 0.2.0-beta.0
 
@@ -12,29 +12,29 @@
 
 ## 0.2.0-alpha.6
 
-**Note:** Version bump only for package @gitee/tide-react
+**Note:** Version bump only for package @norlandsoft/tide-react
 
 ## 0.2.0-alpha.5
 
-**Note:** Version bump only for package @gitee/tide-react
+**Note:** Version bump only for package @norlandsoft/tide-react
 
 ## 0.2.0-alpha.4
 
-**Note:** Version bump only for package @gitee/tide-react
+**Note:** Version bump only for package @norlandsoft/tide-react
 
 ## 0.2.0-alpha.3
 
-**Note:** Version bump only for package @gitee/tide-react
+**Note:** Version bump only for package @norlandsoft/tide-react
 
 ## 0.2.0-alpha.2
 
-**Note:** Version bump only for package @gitee/tide-react
+**Note:** Version bump only for package @norlandsoft/tide-react
 
 ## 0.2.0-alpha.1
 
 ### Minor Changes
 
-- Remove @gitee/tide-extension-bubble-menu
+- Remove @norlandsoft/tide-extension-bubble-menu
 
 ## 0.2.0-alpha.0
 
@@ -45,7 +45,7 @@
 ### Patch Changes
 
 - Updated dependencies
-  - @gitee/tide-extension-bubble-menu@0.2.0-alpha.0
+  - @norlandsoft/tide-extension-bubble-menu@0.2.0-alpha.0
 
 ## 0.1.0-alpha.18
 
@@ -56,7 +56,7 @@
 ### Patch Changes
 
 - Updated dependencies
-  - @gitee/tide-extension-bubble-menu@0.1.0-alpha.18
+  - @norlandsoft/tide-extension-bubble-menu@0.1.0-alpha.18
 
 ## 0.1.0-alpha.17
 
@@ -67,7 +67,7 @@
 ### Patch Changes
 
 - Updated dependencies
-  - @gitee/tide-extension-bubble-menu@0.1.0-alpha.17
+  - @norlandsoft/tide-extension-bubble-menu@0.1.0-alpha.17
 
 ## 0.1.0-alpha.16
 
@@ -78,7 +78,7 @@
 ### Patch Changes
 
 - Updated dependencies
-  - @gitee/tide-extension-bubble-menu@0.1.0-alpha.16
+  - @norlandsoft/tide-extension-bubble-menu@0.1.0-alpha.16
 
 ## 0.1.0-alpha.15
 
@@ -89,7 +89,7 @@
 ### Patch Changes
 
 - Updated dependencies
-  - @gitee/tide-extension-bubble-menu@0.1.0-alpha.15
+  - @norlandsoft/tide-extension-bubble-menu@0.1.0-alpha.15
 
 ## 0.1.0-alpha.14
 
@@ -100,7 +100,7 @@
 ### Patch Changes
 
 - Updated dependencies
-  - @gitee/tide-extension-bubble-menu@0.1.0-alpha.14
+  - @norlandsoft/tide-extension-bubble-menu@0.1.0-alpha.14
 
 ## 0.1.0-alpha.13
 
@@ -111,7 +111,7 @@
 ### Patch Changes
 
 - Updated dependencies
-  - @gitee/tide-extension-bubble-menu@0.1.0-alpha.13
+  - @norlandsoft/tide-extension-bubble-menu@0.1.0-alpha.13
 
 ## 0.1.0-alpha.12
 
@@ -122,7 +122,7 @@
 ### Patch Changes
 
 - Updated dependencies
-  - @gitee/tide-extension-bubble-menu@0.1.0-alpha.12
+  - @norlandsoft/tide-extension-bubble-menu@0.1.0-alpha.12
 
 ## 0.1.0-alpha.11
 
@@ -133,7 +133,7 @@
 ### Patch Changes
 
 - Updated dependencies
-  - @gitee/tide-extension-bubble-menu@0.1.0-alpha.11
+  - @norlandsoft/tide-extension-bubble-menu@0.1.0-alpha.11
 
 ## 0.1.0-alpha.10
 
@@ -150,7 +150,7 @@
 ### Patch Changes
 
 - Updated dependencies
-  - @gitee/tide-extension-bubble-menu@0.1.0-alpha.10
+  - @norlandsoft/tide-extension-bubble-menu@0.1.0-alpha.10
 
 ## 0.1.0-alpha.9
 
@@ -161,7 +161,7 @@
 ### Patch Changes
 
 - Updated dependencies
-  - @gitee/tide-extension-bubble-menu@0.1.0-alpha.9
+  - @norlandsoft/tide-extension-bubble-menu@0.1.0-alpha.9
 
 ## 0.1.0-alpha.8
 
@@ -172,7 +172,7 @@
 ### Patch Changes
 
 - Updated dependencies
-  - @gitee/tide-extension-bubble-menu@0.1.0-alpha.8
+  - @norlandsoft/tide-extension-bubble-menu@0.1.0-alpha.8
 
 ## 0.1.0-alpha.7
 
@@ -183,7 +183,7 @@
 ### Patch Changes
 
 - Updated dependencies
-  - @gitee/tide-extension-bubble-menu@0.1.0-alpha.7
+  - @norlandsoft/tide-extension-bubble-menu@0.1.0-alpha.7
 
 ## 0.1.0-alpha.6
 
@@ -194,18 +194,18 @@
 ### Patch Changes
 
 - Updated dependencies
-  - @gitee/tide-extension-bubble-menu@0.1.0-alpha.6
+  - @norlandsoft/tide-extension-bubble-menu@0.1.0-alpha.6
 
 ## 0.1.0-alpha.5
 
 ### Minor Changes
 
-- Refactor @gitee/tide-extension-bubble-menu.
+- Refactor @norlandsoft/tide-extension-bubble-menu.
 
 ### Patch Changes
 
 - Updated dependencies
-  - @gitee/tide-extension-bubble-menu@0.1.0-alpha.5
+  - @norlandsoft/tide-extension-bubble-menu@0.1.0-alpha.5
 
 ## 0.1.0-alpha.4
 

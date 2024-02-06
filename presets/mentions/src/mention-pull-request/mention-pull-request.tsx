@@ -7,8 +7,8 @@ import {
   MentionList,
   MentionListProps,
   MentionOptions,
-} from '@gitee/tide-extension-mention';
-import { ReactNodeViewRenderer } from '@gitee/tide-react';
+} from '@norlandsoft/tide-extension-mention';
+import { ReactNodeViewRenderer } from '@norlandsoft/tide-react';
 import { MentionPullRequestNodeView } from './NodeView';
 import MentionPullRequestItemRender from './ItemRender';
 import {

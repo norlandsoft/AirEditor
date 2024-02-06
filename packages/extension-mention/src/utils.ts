@@ -6,7 +6,7 @@ import type {
   SuggestionOptions,
   SuggestionProps,
 } from '@tiptap/suggestion';
-import { ReactRenderer } from '@gitee/tide-react';
+import { ReactRenderer } from '@norlandsoft/tide-react';
 
 export interface BaseMentionListProps<ItemDataType = any, AttrsType = any>
   extends Omit<SuggestionProps<ItemDataType>, 'command'> {

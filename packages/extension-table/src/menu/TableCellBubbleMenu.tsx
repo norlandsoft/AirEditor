@@ -3,8 +3,8 @@ import { sticky } from 'tippy.js';
 import Tippy from '@tippyjs/react';
 import { PluginKey } from '@tiptap/pm/state';
 import { Editor, posToDOMRect } from '@tiptap/core';
-import { BubbleMenu } from '@gitee/tide-react';
-import type { BubbleMenuProps } from '@gitee/tide-react';
+import { BubbleMenu } from '@norlandsoft/tide-react';
+import type { BubbleMenuProps } from '@norlandsoft/tide-react';
 import {
   IconAlignCenterBold,
   IconAlignRightBold,

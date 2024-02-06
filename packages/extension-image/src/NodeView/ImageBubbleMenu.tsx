@@ -1,8 +1,8 @@
 import React, { useCallback } from 'react';
 import { Editor, isNodeSelection, posToDOMRect } from '@tiptap/core';
 import { CellSelection } from '@tiptap/pm/tables';
-import { isActive } from '@gitee/tide-common';
-import { SelectionBubbleMenu } from '@gitee/tide-react';
+import { isActive } from '@norlandsoft/tide-common';
+import { SelectionBubbleMenu } from '@norlandsoft/tide-react';
 import Tippy from '@tippyjs/react';
 import {
   IconAlignCenterBold,

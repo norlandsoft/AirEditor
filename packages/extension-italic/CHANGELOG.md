@@ -1,8 +1,8 @@
-# @gitee/tide-extension-italic
+# @norlandsoft/tide-extension-italic
 
 ## 0.2.0-beta.1
 
-**Note:** Version bump only for package @gitee/tide-extension-italic
+**Note:** Version bump only for package @norlandsoft/tide-extension-italic
 
 ## 0.2.0-beta.0
 
@@ -12,27 +12,27 @@
 
 ## 0.2.0-alpha.6
 
-**Note:** Version bump only for package @gitee/tide-extension-italic
+**Note:** Version bump only for package @norlandsoft/tide-extension-italic
 
 ## 0.2.0-alpha.5
 
-**Note:** Version bump only for package @gitee/tide-extension-italic
+**Note:** Version bump only for package @norlandsoft/tide-extension-italic
 
 ## 0.2.0-alpha.4
 
-**Note:** Version bump only for package @gitee/tide-extension-italic
+**Note:** Version bump only for package @norlandsoft/tide-extension-italic
 
 ## 0.2.0-alpha.3
 
-**Note:** Version bump only for package @gitee/tide-extension-italic
+**Note:** Version bump only for package @norlandsoft/tide-extension-italic
 
 ## 0.2.0-alpha.2
 
-**Note:** Version bump only for package @gitee/tide-extension-italic
+**Note:** Version bump only for package @norlandsoft/tide-extension-italic
 
 ## 0.2.0-alpha.1
 
-**Note:** Version bump only for package @gitee/tide-extension-italic
+**Note:** Version bump only for package @norlandsoft/tide-extension-italic
 
 ## 0.2.0-alpha.0
 
@@ -128,7 +128,7 @@
 
 ### Minor Changes
 
-- Refactor @gitee/tide-extension-bubble-menu.
+- Refactor @norlandsoft/tide-extension-bubble-menu.
 
 ## 0.1.0-alpha.4
 

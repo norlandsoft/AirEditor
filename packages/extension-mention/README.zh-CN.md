@@ -1,4 +1,4 @@
-# @gitee/tide-extension-mention
+# @norlandsoft/tide-extension-mention
 
 ## 介绍
 

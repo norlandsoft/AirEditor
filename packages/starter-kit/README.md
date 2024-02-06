@@ -1,4 +1,4 @@
-# @gitee/tide-starter-kit
+# @norlandsoft/tide-starter-kit
 
 ## Introduction
 

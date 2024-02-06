@@ -1,4 +1,4 @@
-# @gitee/tide-theme
+# @norlandsoft/tide-theme
 
 ## Introduction
 

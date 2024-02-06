@@ -5,8 +5,8 @@ import {
   EditorRender,
   TideEditorOptions,
   useEditor,
-} from '@gitee/tide';
-import { StarterKit } from '@gitee/tide-starter-kit';
+} from '@norlandsoft/tide';
+import { StarterKit } from '@norlandsoft/tide-starter-kit';
 import { LegacyExtOpts } from './type';
 
 import {
@@ -14,11 +14,11 @@ import {
   MentionMember,
   MentionIssue,
   MentionPullRequest,
-} from '@gitee/tide-presets-mentions';
+} from '@norlandsoft/tide-presets-mentions';
 import { pulls, issues, members } from './mentionLink';
 
-import '@gitee/tide/dist/style.css';
-import '@gitee/tide-presets-mentions/dist/style.css';
+import '@norlandsoft/tide/dist/style.css';
+import '@norlandsoft/tide-presets-mentions/dist/style.css';
 
 import 'highlight.js/styles/default.css';
 

@@ -21,7 +21,7 @@ import {
   Table,
   TaskList,
   Undo,
-} from '@gitee/tide-extension-menubar';
+} from '@norlandsoft/tide-extension-menubar';
 import { useEditorContext } from '../context/EditorContext';
 import type { TideEditor } from '../TideEditor';
 

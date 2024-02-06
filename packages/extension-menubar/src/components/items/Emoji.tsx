@@ -1,7 +1,7 @@
 import React from 'react';
 import { IconSmileCircleBold } from '@gitee/icons-react';
-import { isActive } from '@gitee/tide-common';
-import { InsertEmojiButton } from '@gitee/tide-extension-emoji';
+import { isActive } from '@norlandsoft/tide-common';
+import { InsertEmojiButton } from '@norlandsoft/tide-extension-emoji';
 import { MenuBarItem } from '../MenuBarItem';
 import { useStatusMap } from '../../MenuBarContext';
 import { Tooltip } from '../Tooltip';

@@ -1,10 +1,10 @@
-import { UploaderFunc } from '@gitee/tide-extension-uploader';
+import { UploaderFunc } from '@norlandsoft/tide-extension-uploader';
 import type {
   MentionMemberItemDataType,
   MentionIssueItemDataType,
   MentionPullRequestItemDataType,
   BulkFetcherRequestFunc,
-} from '@gitee/tide-presets-mentions';
+} from '@norlandsoft/tide-presets-mentions';
 
 export type MentionType = {
   fetchMentionMember: (

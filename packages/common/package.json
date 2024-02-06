@@ -1,5 +1,5 @@
 {
-  "name": "@gitee/tide-common",
+  "name": "@norlandsoft/tide-common",
   "version": "0.2.0-beta.1",
   "main": "dist/index.js",
   "module": "dist/index.esm.js",

@@ -1,4 +1,4 @@
-# @gitee/tide-extension-menubar
+# @norlandsoft/tide-extension-menubar
 
 ## 介绍
 

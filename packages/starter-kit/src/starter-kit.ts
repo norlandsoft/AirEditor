@@ -3,7 +3,7 @@ import {
   Commands,
   HighPriorityKeymap,
   LowPriorityKeymap,
-} from '@gitee/tide-common';
+} from '@norlandsoft/tide-common';
 import { Document } from '@tiptap/extension-document';
 import { Paragraph, ParagraphOptions } from '@tiptap/extension-paragraph';
 import { Text } from '@tiptap/extension-text';
@@ -20,48 +20,63 @@ import {
   TableRowOptions,
   TableCell,
   TableCellOptions,
-} from '@gitee/tide-extension-table';
-import { Link, LinkOptions } from '@gitee/tide-extension-link';
-import { Image, ImageOptions } from '@gitee/tide-extension-image';
+} from '@norlandsoft/tide-extension-table';
+import { Link, LinkOptions } from '@norlandsoft/tide-extension-link';
+import { Image, ImageOptions } from '@norlandsoft/tide-extension-image';
 import {
   Indentation,
   IndentationOptions,
-} from '@gitee/tide-extension-indentation';
+} from '@norlandsoft/tide-extension-indentation';
 import {
   ListsIndentation,
   ListsIndentationOptions,
-} from '@gitee/tide-extension-lists-indentation';
+} from '@norlandsoft/tide-extension-lists-indentation';
 import {
   BulletList,
   BulletListOptions,
-} from '@gitee/tide-extension-bullet-list';
+} from '@norlandsoft/tide-extension-bullet-list';
 import {
   OrderedList,
   OrderedListOptions,
-} from '@gitee/tide-extension-ordered-list';
-import { ListItem, ListItemOptions } from '@gitee/tide-extension-list-item';
+} from '@norlandsoft/tide-extension-ordered-list';
+import {
+  ListItem,
+  ListItemOptions,
+} from '@norlandsoft/tide-extension-list-item';
 import { TaskList, TaskListOptions } from '@tiptap/extension-task-list';
-import { TaskItem, TaskItemOptions } from '@gitee/tide-extension-task-item';
+import {
+  TaskItem,
+  TaskItemOptions,
+} from '@norlandsoft/tide-extension-task-item';
 import {
   Blockquote,
   BlockquoteOptions,
-} from '@gitee/tide-extension-blockquote';
-import { Bold, BoldOptions } from '@gitee/tide-extension-bold';
-import { Italic, ItalicOptions } from '@gitee/tide-extension-italic';
-import { Strike, StrikeOptions } from '@gitee/tide-extension-strike';
-import { Code, CodeOptions } from '@gitee/tide-extension-code';
-import { CodeBlock, CodeBlockOptions } from '@gitee/tide-extension-code-block';
+} from '@norlandsoft/tide-extension-blockquote';
+import { Bold, BoldOptions } from '@norlandsoft/tide-extension-bold';
+import { Italic, ItalicOptions } from '@norlandsoft/tide-extension-italic';
+import { Strike, StrikeOptions } from '@norlandsoft/tide-extension-strike';
+import { Code, CodeOptions } from '@norlandsoft/tide-extension-code';
+import {
+  CodeBlock,
+  CodeBlockOptions,
+} from '@norlandsoft/tide-extension-code-block';
 import {
   Emoji,
   EmojiOptions,
   suggestion as emojiSuggestion,
-} from '@gitee/tide-extension-emoji';
+} from '@norlandsoft/tide-extension-emoji';
 import {
   HorizontalRule,
   HorizontalRuleOptions,
-} from '@gitee/tide-extension-horizontal-rule';
-import { Markdown, MarkdownOptions } from '@gitee/tide-extension-markdown';
-import { Uploader, UploaderOptions } from '@gitee/tide-extension-uploader';
+} from '@norlandsoft/tide-extension-horizontal-rule';
+import {
+  Markdown,
+  MarkdownOptions,
+} from '@norlandsoft/tide-extension-markdown';
+import {
+  Uploader,
+  UploaderOptions,
+} from '@norlandsoft/tide-extension-uploader';
 
 export interface StarterKitOptions {
   commands: false;

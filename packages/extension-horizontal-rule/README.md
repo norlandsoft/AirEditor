@@ -1,4 +1,4 @@
-# @gitee/tide-extension-horizontal-rule
+# @norlandsoft/tide-extension-horizontal-rule
 
 ## Introduction
 

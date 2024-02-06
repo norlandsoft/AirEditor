@@ -1,4 +1,4 @@
-# @gitee/tide-extension-bullet-list
+# @norlandsoft/tide-extension-bullet-list
 
 ## Introduction
 

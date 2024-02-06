@@ -1,4 +1,4 @@
-# @gitee/tide-extension-link
+# @norlandsoft/tide-extension-link
 
 ## Introduction
 

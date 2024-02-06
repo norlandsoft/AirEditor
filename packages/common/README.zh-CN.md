@@ -1,4 +1,4 @@
-# @gitee/tide-common
+# @norlandsoft/tide-common
 
 ## 介绍
 
