@@ -1,0 +1,18 @@
+{
+  "extends": "./base.json",
+  "compilerOptions": {
+    "lib": [
+      "ESNext",
+      "DOM"
+    ],
+    "module": "ESNext",
+    "target": "ES6",
+    "jsx": "react-jsx"
+  },
+  "files": [
+    "./type.d.ts"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}

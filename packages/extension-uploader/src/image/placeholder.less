@@ -1,0 +1,63 @@
+@import (reference) '~@gitee/tide-theme/dist/variable.less';
+
+.tide-uploader {
+  &__img {
+    display: block;
+    margin: 16px 0;
+
+    &-placeholder {
+      position: relative;
+
+      img {
+        display: block;
+        width: 100%;
+      }
+
+      &:after {
+        content: '';
+        display: block;
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-color: rgba(0, 0, 0, 0.5);
+      }
+    }
+    &-progress-wrap {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      width: 70%;
+      height: 20px;
+      position: absolute;
+      z-index: 2;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      overflow: hidden;
+    }
+
+    &-progress {
+      width: 80%;
+      height: 8px;
+      margin-right: 8px;
+      border-radius: 10px;
+      background: #eceef5;
+
+      &-inner {
+        display: block;
+        height: 100%;
+        border-radius: 10px;
+        background: @theme-color;
+      }
+
+      &-text {
+        flex-shrink: 0;
+        font-size: 14px;
+        color: #fff;
+        line-height: 18px;
+      }
+    }
+  }
+}

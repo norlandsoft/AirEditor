@@ -1,0 +1,56 @@
+@import (reference) '~@gitee/tide-theme/dist/variable.less';
+
+.tide-editor-popup.tide-link-popup {
+  padding: 16px;
+  font-size: 14px;
+}
+.tide-link-popup {
+  &__row {
+    margin-bottom: 16px;
+  }
+
+  &__label {
+    display: block;
+    line-height: 20px;
+    margin-bottom: 8px;
+  }
+  &__input {
+    display: block;
+    width: 210px;
+    padding: 7px 8px;
+    background: @background-color;
+    border-radius: 3px;
+    border: 1px solid @border-color;
+    color: inherit;
+    outline: 0;
+    &:focus {
+      border-color: @theme-color;
+      box-shadow: 0 0 0 1px @theme-color;
+    }
+  }
+  &__btn-group {
+    display: flex;
+    justify-content: flex-end;
+  }
+
+  &__button {
+    width: 60px;
+    height: 32px;
+    outline: 0;
+    border-radius: 4px;
+    margin-left: 8px;
+    cursor: pointer;
+
+    &--primary {
+      color: @background-color;
+      background-color: @theme-color;
+      border: 1px solid @theme-color;
+    }
+
+    &--basic {
+      color: @text-color;
+      background-color: @background-color;
+      border: 1px solid @border-color;
+    }
+  }
+}

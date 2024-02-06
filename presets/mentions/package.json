@@ -1,0 +1,51 @@
+{
+  "name": "@gitee/tide-presets-mentions",
+  "version": "0.2.0-beta.1",
+  "main": "dist/index.js",
+  "module": "dist/index.esm.js",
+  "files": [
+    "dist"
+  ],
+  "types": "dist/types/index.d.ts",
+  "license": "MIT",
+  "scripts": {
+    "dev": "rollup -c rollup.config.js -w",
+    "build": "rollup -c rollup.config.js",
+    "lint": "TIMING=1 eslint \"**/*.ts\"",
+    "clear": "rm -rf dist"
+  },
+  "dependencies": {
+    "@babel/runtime-corejs3": "^7.21.0",
+    "@gitee/tide-common": "workspace:*",
+    "@gitee/tide-extension-mention": "workspace:*",
+    "@gitee/tide-react": "workspace:*",
+    "@gitee/tide-theme": "workspace:*",
+    "@gitee/icons-react": "^0.1.49",
+    "@tippyjs/react": "^4.2.6",
+    "@tiptap/extension-image": "^2.0.3",
+    "classnames": "^2.2.6",
+    "lodash-es": "^4.17.21",
+    "ahooks": "v3.7.6"
+  },
+  "devDependencies": {
+    "@gitee/icons-react": "^0.1.49",
+    "@tiptap/core": "^2.0.3",
+    "@tiptap/pm": "^2.0.3",
+    "@types/react": "^16.14.0",
+    "@types/react-dom": "^16.9.19",
+    "eslint-config-custom": "workspace:*",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0",
+    "tsconfig": "workspace:*",
+    "tslib": "^2.5.3",
+    "typescript": "^4.9.5"
+  },
+  "peerDependencies": {
+    "@gitee/icons-react": "^0.1.49",
+    "@tiptap/core": "^2.0.0",
+    "@tiptap/pm": "^2.0.0",
+    "react": "^16.14.0 || ^17.0.0 || ^18.0.0",
+    "react-dom": "^16.14.0 || ^17.0.0 || ^18.0.0"
+  },
+  "sideEffects": false
+}

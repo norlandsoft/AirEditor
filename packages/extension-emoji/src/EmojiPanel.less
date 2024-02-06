@@ -1,0 +1,107 @@
+@import (reference) '~@gitee/tide-theme/dist/variable.less';
+
+.tide-emoji-panel {
+  width: 420px;
+
+  &__input-wrap {
+    position: relative;
+    margin: 16px;
+
+    & > svg {
+      position: absolute;
+      top: 9px;
+      left: 8px;
+      font-size: 14px;
+      color: @text-muted-color;
+    }
+  }
+
+  &__input {
+    width: 100%;
+    line-height: 20px !important;
+    padding: 5px 12px 5px 24px !important;
+    outline: none;
+    border-radius: 4px;
+    border: 1px solid @border-color;
+    background: inherit;
+    box-sizing: border-box;
+    color: inherit;
+    font-size: 14px;
+
+    &::placeholder {
+      color: @text-muted-color;
+    }
+  }
+
+  &__content {
+    position: relative;
+    padding: 0 16px 12px;
+    height: 180px;
+    overflow: overlay;
+    user-select: none;
+  }
+
+  &__emoji {
+    display: inline-block;
+    width: 32px;
+    height: 32px;
+    overflow: hidden;
+    font-size: 24px;
+    line-height: 32px;
+    text-align: center;
+    border-radius: 4px;
+    cursor: pointer;
+    font-family: @text-font-emoji;
+
+    &--active {
+      background-color: @menu-btn-active-bg-color;
+    }
+
+    img {
+      width: 1em;
+      height: 1em;
+      vertical-align: -0.15em;
+    }
+  }
+
+  &__menu {
+    display: flex;
+    border-top: 1px solid @border-color;
+    user-select: none;
+  }
+
+  &__menu-btn {
+    flex: 1;
+    padding: 8px;
+    background: transparent;
+    border: none;
+    color: inherit;
+    cursor: pointer;
+
+    &--active {
+      color: @emoji-menu-active-color;
+      background-color: @emoji-menu-active-bg-color;
+    }
+  }
+
+  &__group {
+    padding-bottom: 8px;
+
+    &:last-child {
+      padding-bottom: 0;
+    }
+
+    &-title {
+      font-size: 14px;
+      padding: 0 4px 4px;
+      position: sticky;
+      top: 0;
+      background-color: @background-color;
+    }
+
+    &-content {
+      display: flex;
+      flex-wrap: wrap;
+    }
+  }
+}
