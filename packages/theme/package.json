@@ -28,7 +28,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://gitee.com/oschina/tide",
+    "url": "https://github.com/norlandsoft/AirEditor",
     "directory": "packages/theme"
   },
   "sideEffects": false
