@@ -15,3 +15,5 @@ public/dist
 
 tests/e2e-report
 tests/e2e-results
+
+.changeset/*.md
