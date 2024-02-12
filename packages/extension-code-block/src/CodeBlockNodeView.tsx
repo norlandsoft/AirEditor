@@ -35,7 +35,7 @@ export const CodeBlockNodeView: React.FC<NodeViewProps> = ({
   const [softWrap, setSoftWrap] = useState(
     () => window.localStorage?.getItem(softWrapLocalStorageKey) === 'true'
   );
-  const [toolbarVisible, setToolbarVisible] = useState(false);
+  // const [toolbarVisible, setToolbarVisible] = useState(false);
   const [dropdownVisible, setDropdownVisible] = useState(false);
 
   const language =
@@ -71,13 +71,13 @@ export const CodeBlockNodeView: React.FC<NodeViewProps> = ({
   return (
     <NodeViewWrapper
       className={classNames(node.attrs.className, 'tide-code-block')}
-      onMouseEnter={() => setToolbarVisible(true)}
-      onMouseLeave={() => setToolbarVisible(false)}
+      // 修改为不隐藏工具栏
+      // onMouseEnter={() => setToolbarVisible(true)}
+      // onMouseLeave={() => setToolbarVisible(false)}
     >
       <div
         className={classNames('tide-code-block__toolbar', {
-          'tide-code-block__toolbar--visible':
-            toolbarVisible || dropdownVisible,
+          'tide-code-block__toolbar--visible': true,
         })}
         contentEditable={false}
       >
