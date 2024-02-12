@@ -35,7 +35,7 @@ export const CodeBlockNodeView: React.FC<NodeViewProps> = ({
   const [softWrap, setSoftWrap] = useState(
     () => window.localStorage?.getItem(softWrapLocalStorageKey) === 'true'
   );
-  // const [toolbarVisible, setToolbarVisible] = useState(false);
+
   const [dropdownVisible, setDropdownVisible] = useState(false);
 
   const language =
@@ -71,16 +71,8 @@ export const CodeBlockNodeView: React.FC<NodeViewProps> = ({
   return (
     <NodeViewWrapper
       className={classNames(node.attrs.className, 'tide-code-block')}
-      // 修改为不隐藏工具栏
-      // onMouseEnter={() => setToolbarVisible(true)}
-      // onMouseLeave={() => setToolbarVisible(false)}
     >
-      <div
-        className={classNames('tide-code-block__toolbar', {
-          'tide-code-block__toolbar--visible': true,
-        })}
-        contentEditable={false}
-      >
+      <div className={'tide-code-block__toolbar'} contentEditable={false}>
         {isEditable ? (
           <Tippy
             placement="bottom-start"
@@ -162,28 +154,28 @@ export const CodeBlockNodeView: React.FC<NodeViewProps> = ({
         ) : (
           <span>{languageItem?.name || language}</span>
         )}
-        {isEditable && (
-          <button
-            className={classNames(
-              'tide-code-block__soft-wrap tide-code-block__button',
-              {
-                'tide-code-block__button--active': softWrap,
-              }
-            )}
-            onClick={() =>
-              setSoftWrap((prev) => {
-                window.localStorage?.setItem(
-                  softWrapLocalStorageKey,
-                  String(!prev)
-                );
-                return !prev;
-              })
+        {/* 取消代码块自动换行功能
+        <button
+          className={classNames(
+            'tide-code-block__soft-wrap tide-code-block__button',
+            {
+              'tide-code-block__button--active': softWrap,
             }
-          >
-            <IconWarpBold />
-            自动换行
-          </button>
-        )}
+          )}
+          onClick={() =>
+            setSoftWrap((prev) => {
+              window.localStorage?.setItem(
+                softWrapLocalStorageKey,
+                String(!prev)
+              );
+              return !prev;
+            })
+          }
+        >
+          <IconWarpBold />
+          自动换行
+        </button>
+        */}
         <button
           className="tide-code-block__button"
           onClick={() => copy($container?.current?.innerText as string)}
