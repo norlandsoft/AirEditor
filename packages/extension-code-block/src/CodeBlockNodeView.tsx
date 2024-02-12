@@ -162,28 +162,26 @@ export const CodeBlockNodeView: React.FC<NodeViewProps> = ({
         ) : (
           <span>{languageItem?.name || language}</span>
         )}
-        {isEditable && (
-          <button
-            className={classNames(
-              'tide-code-block__soft-wrap tide-code-block__button',
-              {
-                'tide-code-block__button--active': softWrap,
-              }
-            )}
-            onClick={() =>
-              setSoftWrap((prev) => {
-                window.localStorage?.setItem(
-                  softWrapLocalStorageKey,
-                  String(!prev)
-                );
-                return !prev;
-              })
+        <button
+          className={classNames(
+            'tide-code-block__soft-wrap tide-code-block__button',
+            {
+              'tide-code-block__button--active': softWrap,
             }
-          >
-            <IconWarpBold />
-            自动换行
-          </button>
-        )}
+          )}
+          onClick={() =>
+            setSoftWrap((prev) => {
+              window.localStorage?.setItem(
+                softWrapLocalStorageKey,
+                String(!prev)
+              );
+              return !prev;
+            })
+          }
+        >
+          <IconWarpBold />
+          自动换行
+        </button>
         <button
           className="tide-code-block__button"
           onClick={() => copy($container?.current?.innerText as string)}
