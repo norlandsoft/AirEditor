@@ -1,4 +1,5 @@
 {
+  "name": "@norlandsoft/tide-starter-kit",
   "private": true,
   "scripts": {
     "build": "turbo run build --filter=@norlandsoft*",
